@@ -1,0 +1,2 @@
+Escribir un programa en Python:
+Que le solicite al usuario que ingrese un número entero positivo y muestre por pantalla todos los divisores del número  ingresado. En la lista se deben omitir el 1 y el propio número.
