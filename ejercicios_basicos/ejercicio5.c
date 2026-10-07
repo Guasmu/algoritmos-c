@@ -1,3 +1,7 @@
+/*5) Ingresar un número entero y decir si:
+a) es par o impar.
+b) es mayor, menor o igual a cero.*/
+
 #include <stdio.h>
 int main(){
     int numero;

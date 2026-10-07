@@ -1,3 +1,6 @@
+/*10) Dada una fecha con año, mes y día, informar si es correcta o no. Solicitarle los
+datos al usuario de forma independiente. Considerar años bisiestos.*/
+
 #include <stdio.h>
 
 int main(){

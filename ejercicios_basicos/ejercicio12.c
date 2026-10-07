@@ -1,3 +1,6 @@
+/*12) Dados a y n números enteros, informar la potencia enésima de a por productos
+sucesivos. a = base, n = exponente*/
+
 #include <stdio.h>
 
 int main(){

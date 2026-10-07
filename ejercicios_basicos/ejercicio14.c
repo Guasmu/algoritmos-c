@@ -1,3 +1,6 @@
+/*14) Escribir un programa que muestre las tablas de multiplicar desde la tabla del 1 hasta la
+tabla del 9 para los primeros 100 números naturales.*/
+
 #include <stdio.h>
 
 int main(){

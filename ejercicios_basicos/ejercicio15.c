@@ -1,3 +1,7 @@
+/*15) Dada una serie de números ingresados de a uno.
+Indicar mayor, menor y promedio de la serie.
+El ingreso de números finaliza cuando el usuario ingresa 0.*/
+
 #include <stdio.h>
 
 int main(){

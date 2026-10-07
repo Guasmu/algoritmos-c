@@ -1,3 +1,6 @@
+/*4) Calcular y mostrar la suma de los n primeros números naturales. Siendo n un
+número ingresado por el usuario. Usar fórmula [ n.(n+1) ] / 2*/
+
 #include <stdio.h>
 int main(){
     int numero,suma;

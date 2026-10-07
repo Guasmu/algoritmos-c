@@ -1,3 +1,6 @@
+/*11) Dado un número n, informar los n primeros términos de la sucesión geométrica de
+razón 3 (1, 3, 9, 27, etc.).*/
+
 #include <stdio.h>
 
 int main(){

@@ -1,3 +1,7 @@
+/*7) Ingresar un número (del 1 al 7) que representa un día de la semana, escribir el
+nombre del día correspondiente. En el caso de haber ingresado un número fuera de
+rango indicarle del error al usuario.*/
+
 #include <stdio.h>
 int main(){
     char diasSemana[7][10] = {"Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"};
