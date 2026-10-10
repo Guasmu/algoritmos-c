@@ -6,10 +6,8 @@ int factorial(int numero){
     else if (numero == 0)
         numero = 1;
     else{
-        int i = numero;
-        while (i != 1){
+        for (int i = numero ; i>2; i--){
             numero = numero * (i-1);
-            i--;
         }
     }
     return numero;
