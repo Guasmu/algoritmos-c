@@ -7,10 +7,7 @@ int es_palindromo(unsigned int n){
         numero = numero * 10 + resto;
         n /= 10;
     }
-    if (numero == n_original)
-        return 1;
-    else
-        return 0;
+    return (numero == n_original);
 }
 
 
