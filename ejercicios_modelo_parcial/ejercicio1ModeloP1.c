@@ -27,13 +27,11 @@ void multiplicacionPar(int numero, int* producto, int* cantidad){
     *cantidad = cantidadAuxiliar;
 }
 
-/*
 int main(){
     int producto,cantidad,numero;
-    numero = 333333;
-    funcion(numero,&producto,&cantidad);
+    numero = 24682;
+    multiplicacionPar(numero,&producto,&cantidad);
     printf("producto %i, cantidad %i\n",producto,cantidad);
 
     return 0;
 }
-*/

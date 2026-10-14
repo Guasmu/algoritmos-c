@@ -27,7 +27,7 @@ void ejercicio2(Tvector vec,int ml,int* indicePrimerNegativo,int* tieneParMayorQ
             hayNegativo = 1;
             indice = i;
         }
-        if (vec[i]>100 && vec[i] % 2 == 0)
+        else if (vec[i]>100 && vec[i] % 2 == 0)
             hayParMayorQue100 = 1;
         i++;
     }
