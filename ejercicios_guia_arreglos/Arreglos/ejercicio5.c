@@ -13,10 +13,7 @@ int main(){
         array[i] = ingreso;
         if(ingreso>valorMaximo){
             cantValorMaximo = 1;
-            for (int n = 0 ; n < 100 ; n ++){
-                posiciones[n] = -1;
-            }
-            posiciones[cantValorMaximo] = i;
+            posiciones[cantValorMaximo-1] = i;
             valorMaximo = ingreso;
         }
         else if (ingreso == valorMaximo){
